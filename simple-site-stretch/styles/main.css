@@ -31,11 +31,6 @@ p {
   top: 90%;
   right: 5px;
 }
-header p {
-  display: inline;
-  color: white;
-  justify-content: center;
-}
 .big {
   position: relative;
   background: yellow;
